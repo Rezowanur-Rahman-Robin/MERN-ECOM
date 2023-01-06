@@ -190,13 +190,13 @@ const getUserById = asyncHandler(async (req, res) => {
   })
   
   export {
-    authUser,
-    registerUser,
-    getUsersProfile,
-    updateUserProfile,
-    getUsers,
-    deleteUser,
-    getUserById,
-    updateUser,
-  }
+  authUser,
+  registerUser,
+  getUsersProfile,
+  updateUserProfile,
+  getUsers,
+  deleteUser,
+  getUserById,
+  updateUser,
+};
 
